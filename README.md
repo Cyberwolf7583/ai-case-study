@@ -13,7 +13,7 @@
     **Marc Raibert**  
 
 **How did the idea for the company (or project) come about?*
-> **Marc Raibert's work was inspired by animals' ability to move with agility, dexterity, and intelligence.** 
+**Marc Raibert's work was inspired by animals' ability to move with agility, dexterity, and intelligence.** 
 
 **1A.) How is the company funded?* 
 > [^2] **1A.) Boston Dynamics is currently primarily funded by Hyundai Motor Group, which acquired a majority stake in the company in June 2021, with SoftBank holding the remaining percentage.**
